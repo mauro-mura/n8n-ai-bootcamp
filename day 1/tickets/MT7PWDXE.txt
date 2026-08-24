@@ -1,0 +1,7 @@
+Prio: Not urgent
+
+Name: Dan
+
+Submitted:2026-08-24T22:57:42.530+02:00
+
+Issue: can't open excel file with critical info
