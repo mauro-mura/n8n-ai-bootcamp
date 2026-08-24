@@ -1,0 +1,7 @@
+Prio: Not urgent
+
+Name: John
+
+Submitted:2026-08-24T22:53:09.376+02:00
+
+Issue: my laptop does not start
