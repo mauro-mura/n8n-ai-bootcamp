@@ -1,0 +1,7 @@
+Prio: Not urgent
+
+Name: Ted
+
+Submitted: 2026-08-26T23:01:08.945+02:00
+
+Issue: User's computer has a virus and needs support.
