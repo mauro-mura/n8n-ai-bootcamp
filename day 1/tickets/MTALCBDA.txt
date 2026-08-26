@@ -1,0 +1,7 @@
+Prio: Urgent
+
+Name: Ted
+
+Submitted: 2026-08-26T23:13:26.162+02:00
+
+Issue: User's computer indicates a virus infection.
