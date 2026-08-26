@@ -1,0 +1,7 @@
+Prio: Not urgent
+
+Name: Ted
+
+Submitted: 2026-08-26T23:49:37.866+02:00
+
+Issue: Received a 'virus' warning screen when attempting to open Excel.
