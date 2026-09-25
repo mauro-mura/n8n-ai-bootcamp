@@ -1,0 +1,9 @@
+User Name: Tom
+
+Submitted: 2026-09-25T22:04:43.001+02:00
+
+Description:
+VPN is down. User requests urgent support.
+
+Status: Open
+Prio: Urgent
